@@ -2,6 +2,7 @@
 
 > A Vue.js project
 
+- 在线网课App
 ## Build Setup
 
 ``` bash
